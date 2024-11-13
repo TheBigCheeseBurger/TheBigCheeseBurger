@@ -1,4 +1,4 @@
-- Hi, I’m @TheBigCheeseBurger.
+- Hi, I’m @georgekt757.
 - I’m interested in all things computer related, big and small.
 - I’m currently learning Python and C.
 - I am an A Level Computer Science student, though I am also studying Mathematics and Physics.
